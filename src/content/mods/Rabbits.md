@@ -2,7 +2,7 @@
 title: Rabbits
 id: rabbit
 author: sammy
-download: "https://github.com/Lammy441/Webfishing-Rabbits/releases/download/v1/rabbit.zip"
+download: "https://github.com/Lammy441/Webfishing-Rabbits/releases/download/v1.0.1/rabbit.zip"
 source: "https://github.com/Lammy441/Webfishing-Rabbits"
 ---
 
